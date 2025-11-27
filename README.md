@@ -18,9 +18,6 @@
 
 <div align="center">
 
-### 🌞 Light Mode  
-<img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,fastapi,nodejs,git,github,docker,linux,raspberrypi&theme=light" />
-
 ### 🌙 Dark Mode  
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,fastapi,nodejs,git,github,docker,linux,raspberrypi&theme=dark" />
 
@@ -131,17 +128,14 @@ If it's interesting, I build it.
 Your GitHub → feature extraction → embeddings → nearest-neighbor →  
 Personalized skill recommendations.
 
-### 📦 Pipeline Visualizer (Concept)
-GitHub → Extractor → Normalizer → ML Predictions → JSON → UI
-
 ---
 
 ## 🔗 **Links & Contact**
 
 📫 Email: **rautayush2003@gmail.com**  
 🐙 GitHub: **https://github.com/Raut-ayush**  
-💼 LinkedIn: *(professional only)*  
+💼 LinkedIn: **www.linkedin.com/in/rautayush45**  
 
 <div align="center">
-⚡ <b>“If it doesn’t exist, I will build it.”</b>
+⚡ <b>“If it doesn’t exist, I will build it.”</b> ⚡
 </div>
