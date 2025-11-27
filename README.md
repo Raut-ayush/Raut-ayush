@@ -1,133 +1,57 @@
-# 🌌 **Ayush Raut — Engineering Beyond Boundaries**
-*AI • Systems • Robotics • Developer Tools • Automation*
-
----
-
 <div align="center">
+🌟 Ayush Raut
+AI • Embedded Systems • Robotics • Full-Stack Engineering
+<p> I build high-impact engineering projects: AI agents, embedded systems, UAVs, antennas, automation, and developer tools. Obsessed with turning ideas into working products. </p> <!-- Gradient Banner --> <img width="100%" src="https://placehold.co/1200x80/00eaff/ffffff?text=+&gradient=to-right,00eaff,7c3aed" /> <!-- Badges --> <p align="center"> <img src="https://img.shields.io/github/followers/Raut-ayush?style=for-the-badge&color=00eaff" /> <img src="https://img.shields.io/github/stars/Raut-ayush?style=for-the-badge&color=7c3aed" /> <img src="https://komarev.com/ghpvc/?username=Raut-ayush&style=for-the-badge&color=9333ea" /> </p> <!-- Hero GIF --> <img src="https://placehold.co/900x300?text=Your+Profile+GIF+Here" width="90%" /> </div>
+🎨 About Me
 
-## 🛸 *"I build things that shouldn't exist yet."*
+Hi! I'm Ayush, an engineer who loves blending AI, robotics, embedded hardware, and full-stack systems into powerful real-world products.
 
-![GitHub followers](https://img.shields.io/github/followers/Raut-ayush?label=Followers&logo=github&style=for-the-badge)  
-![Profile Views](https://komarev.com/ghpvc/?username=Raut-ayush&style=for-the-badge&color=blue)  
-![Repos](https://img.shields.io/badge/Public%20Repos-40+-green?style=for-the-badge)  
-![ML Powered](https://img.shields.io/badge/ML%20Engineer-%F0%9F%A4%96-blueviolet?style=for-the-badge)
+I enjoy:
 
+Building AI agents
+
+Implementing embedded + IoT systems
+
+Designing UAV & RF communication systems
+
+Creating automation tools & developer utilities
+
+🚀 Tech Stack
+<div align="center">
+Languages	Frameworks	Systems & Tools
+Python • C++ • Embedded C	TensorFlow • PyTorch • FastAPI • Flask • React	Docker • Linux • ROS • Three.js
 </div>
-
----
-
+📦 My Projects
 <div align="center">
+🌐 Project Gallery (Pinned Style)
+<table> <tr> <td width="33%"> <b>🤖 AI Agents</b><br> <img src="https://placehold.co/300x180?text=AI+Agents" /><br> <sub>Autonomous reasoning, local LLM tooling, and workflow automation.</sub> </td> <td width="33%"> <b>🚁 UAV & RF Systems</b><br> <img src="https://placehold.co/300x180?text=UAV+Systems" /><br> <sub>Navigation, image processing, Wi-Fi systems, and mission autonomy.</sub> </td> <td width="33%"> <b>⚙️ Embedded / IoT</b><br> <img src="https://placehold.co/300x180?text=Embedded+Systems" /><br> <sub>Custom hardware, firmware, sensing systems, and automation.</sub> </td> </tr> </table> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raut-ayush&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Raut-ayush&theme=radical&hide_border=true" width="48%" />
 
-### ⚡ Tech Arsenal  
-<img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,fastapi,nodejs,git,github,docker,linux,raspberrypi&theme=dark" />
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raut-ayush&layout=compact&theme=radical&hide_border=true" width="40%" /> </div>
+🧰 Tools I Build
 
----
+🧠 AI assistants & localized LLM utilities
 
-## 🚀 **What I Actually Do**
-- Build **AI systems** that analyze GitHub profiles, codebases & developer behavior  
-- Engineer **full-stack applications** with dashboards, analytics, and ML pipelines  
-- Develop **UAV & robotic automations** with drones, antennas & mission scripts  
-- Create **developer tools**, agents, playgrounds & IDE-like helpers  
-- Design **high-performance backend systems** with async workers & pipelines  
-- Explore **signal processing & antenna engineering** for long-range telemetry  
+🔌 Embedded firmware + control systems
 
----
+📡 UAV-linked communication systems
 
-# 🎯 Featured Work
+🛠 Developer CLI tools & automation kits
 
-## 🔍 **GitHub Lens — AI GitHub Profile Analyzer**  
-*A complete ML-powered developer-intelligence engine.*
+🛰️ RF, antennas, and long-range connectivity experiments
 
-✔ Multi-stage pipeline  
-✔ Feature extraction & data reduction  
-✔ ML models: developer ranking, domain classifier, skill recommender  
-✔ FastAPI async backend + queue system  
-✔ Game + loading experience  
-✔ Beautiful React + shadcn UI dashboard  
+📬 Contact Me
 
+Feel free to reach out!
+
+Platform	Link
+✉️ Email	mailto:ayushraut@example.com
+🔗 LinkedIn	https://www.linkedin.com/in/&lt;your-profile
+>
+💻 GitHub	https://github.com/Raut-ayush
 <div align="center">
-  
-![Analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=Raut-ayush&repo=github-lens-main&theme=tokyonight)
-
-</div>
-
----
-
-## 🛩️ **UAV, Robotics & Wireless Systems**
-- Autonomous flight scripts  
-- Live mission monitoring  
-- Long-range plate-antenna WiFi gun (experimental)  
-- Real-time detection pipeline + onboard compute  
-
-<div align="center">
-
-![Drones](https://img.shields.io/badge/UAV%20Engineering-%F0%9F%9A%81-blue?style=for-the-badge)  
-![Robotics](https://img.shields.io/badge/Robotics-%F0%9F%A7%AA-orange?style=for-the-badge)
-
-</div>
-
----
-
-## 🖨️ **Smart Print Kiosk — Production System**
-- Razorpay UPI QR integrated  
-- Multi-PDF with per-file color & side settings  
-- Canon G3010 Linux print engine, automated cleanup  
-- Telegram bot + web dashboard  
-
-<div align="center">
-  
-![Automation](https://img.shields.io/badge/Automation-Complete-blueviolet?style=for-the-badge)
-
-</div>
-
----
-
-# ⚡ Activity Feed
-
-<div align="center">
-
-![Ayush’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raut-ayush&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raut-ayush&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🧠 About My Engineering Philosophy
-
-### **🔹 Build fast. Learn faster.**  
-Ideas emerge *during* building — never before it.
-
-### **🔹 Systems thinking is my default mode.**  
-Every tool, script, antenna or dashboard is a piece in a bigger system.
-
-### **🔹 Practical over theoretical.**  
-If it works in real-world constraints, *it is correct*.
-
-### **🔹 Curiosity-first engineering.**  
-Robotics → ML → antennas → developer tools.  
-If it's interesting, I build it.
-
----
-
-# 🧩 Interactive Zone (Fun Elements)
-
-> ✨ **Move your cursor (mentally 😄)** and activate the panels.
-
-### 🎮 “Loading Mode” Mini Game (In Project)
-Fruit Slice • High scores • Background polling  
-*(Appears while waiting for ML analysis to finish)*🔗 Links & Contact
-
-📫 Email: rautayush2003@gmail.com
-
-🐙 GitHub: https://github.com/Raut-ayush
-
-💼 LinkedIn: (professional only)
-
-<div align="center">
-⚡ “If it doesn’t exist, I will build it.”
-</div> ```
-
+⭐ If you like my work, consider starring my repositories!
+<img width="100%" src="https://placehold.co/1200x80/7c3aed/ffffff?text=+&gradient=to-right,7c3aed,00eaff" /> </div>
