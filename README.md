@@ -16,8 +16,7 @@
 ## ⚡ **Tech Arsenal**
 
 <div align="center">
-
-### 🌙 Dark Mode  
+  
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,react,fastapi,nodejs,git,github,docker,linux,raspberrypi&theme=dark" />
 
 </div>
