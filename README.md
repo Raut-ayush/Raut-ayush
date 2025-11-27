@@ -1,6 +1,7 @@
 # 🌌 **Ayush Raut — Engineering Beyond Boundaries**
+<div align="center">
 ### *AI • Systems • Robotics • Developer Tools • Automation*
-
+</div>
 <div align="center">
 🌠 <i>"I love to build things that haven't existed yet."</i>  
 <br><br>
