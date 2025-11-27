@@ -1,13 +1,12 @@
 # 🌌 **Ayush Raut — Engineering Beyond Boundaries**
 
-## *AI • Systems • Robotics • Developer Tools • Automation*
+## *AI • Systems • Robotics • Developer Tools • Embedded Systems • Automation*
 
 <div align="center">
 🌠 <i>"I love to build things that haven't existed yet."</i>  
 <br><br>
 
 <img src="https://img.shields.io/github/followers/Raut-ayush?label=Followers&logo=github&style=for-the-badge&color=0A84FF" />
-<img src="https://komarev.com/ghpvc/?username=Raut-ayush&style=for-the-badge&color=777777" />
 <img src="https://img.shields.io/badge/Public%20Repos-40+-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ML%20Engineer-%F0%9F%A4%96-8b5cf6?style=for-the-badge" />
 </div>
